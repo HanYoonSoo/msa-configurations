@@ -1,4 +1,4 @@
 # user-service.yml
 jwt:
   token:
-    key: my_token_secret_key
+    key: "{cipher}7185aafa710c9a8c8ff2ef3e8a6aca6a235d7437c02deb1be263e39067b1dc4e62a068c8c52de931a3aaaf88846d59f4"
