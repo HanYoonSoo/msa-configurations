@@ -1,7 +1,3 @@
 # user-service-test.yml
-spring:
-  datasource:
-    driver: com.h2.Driver
-    url: http://new-db-url.com
-    username: admin
-    password: admin
+test:
+  message: Hi
